@@ -3,7 +3,7 @@
 Escolha o idioma:
 
 - [English](#github-activity-cli-english)
-- [Português](#github-activity-cli-portuguese)
+- [Português](#github-activity-cli-português)
 
 ---
 
@@ -81,7 +81,7 @@ Parses the JSON response and returns it as a JsonNode.
 License
 This project is licensed under the MIT License.
 
-## GitHub Activity CLI (Portuguese)
+## GitHub Activity CLI (Português)
 
 Este é um aplicativo de interface de linha de comando (CLI) que busca e exibe a atividade recente do GitHub para um usuário especificado.
 
